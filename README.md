@@ -5,7 +5,7 @@
 <!-- 🏔 I'm currently learning `iOS Animations`, `RxSwift`, `ReactorKit` -->
 
 - 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sdy2856@gmail.com)](mailto:sdy2856@gmail.com)
-- 🔭 I’m currently working on [POSTYPE](https://www.postype.com) as an iOS App Engineer.
+- 🔭 I’m currently working on Devsisters as an iOS App Engineer.
 - 🏜 I'm interested in `iOS Animations`, `Software Architecture`, `UI/UX in Mobile Environment`.
 - 🤼‍♀️ Reviewer at [Yagom Academy Career Starter](https://www.yagom-academy.kr/camp/career-starter)
 - 🎹 Playing piano beginner
